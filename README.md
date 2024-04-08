@@ -1,4 +1,4 @@
-# Seminoles IMC Porsperity Trading Algorithms
+# Seminoles IMC Prosperity Trading Algorithms
 
 All algorithms are sorted by round. The empty model and starter model are available in the main folder to copy from.
 
